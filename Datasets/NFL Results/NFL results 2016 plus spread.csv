@@ -1,0 +1,268 @@
+Week,Day,Date,Time,Team A,Home,Team B,PtsA,PtsB,YdsW,TOW,YdsL,TOL,Home Spread,Abs Difference
+1,A,September 8,8:40PM,Denver Broncos,A,Carolina Panthers,21,20,307,3,333,1,-1.5,1
+1,A,September 11,1:04PM,Baltimore Ravens,A,Buffalo Bills,13,7,308,1,160,0,-3,6
+1,A,September 11,1:04PM,Green Bay Packers,B,Jacksonville Jaguars,27,23,294,0,348,1,3.5,4
+1,A,September 11,1:05PM,Oakland Raiders,B,New Orleans Saints,35,34,486,0,507,1,0,1
+1,A,September 11,1:05PM,Kansas City Chiefs,A,San Diego Chargers,33,27,413,1,388,0,-7,6
+1,A,September 11,1:05PM,Houston Texans,A,Chicago Bears,23,14,344,1,258,1,-5,9
+1,A,September 11,1:05PM,Philadelphia Eagles,A,Cleveland Browns,29,10,403,0,288,1,-7.5,19
+1,A,September 11,1:05PM,Minnesota Vikings,B,Tennessee Titans,25,16,301,0,316,3,3,9
+1,A,September 11,1:05PM,Tampa Bay Buccaneers,B,Atlanta Falcons,31,24,371,1,374,0,-3,7
+1,A,September 11,1:05PM,Cincinnati Bengals,B,New York Jets,23,22,381,1,340,1,1,1
+1,A,September 11,4:08PM,Seattle Seahawks,A,Miami Dolphins,12,10,352,2,214,0,-8.5,2
+1,A,September 11,4:27PM,Detroit Lions,B,Indianapolis Colts,39,35,448,0,450,0,-4,4
+1,A,September 11,4:27PM,New York Giants,B,Dallas Cowboys,20,19,316,1,328,0,-4,1
+1,A,September 11,7:30PM,New England Patriots,B,Arizona Cardinals,23,21,363,2,344,0,-1,2
+1,A,September 12,7:11PM,Pittsburgh Steelers,B,Washington Redskins,38,16,437,1,384,2,-3,22
+1,A,September 12,10:20PM,San Francisco 49ers,A,Los Angeles Rams,28,0,320,1,185,2,-2,28
+2,A,September 15,8:26PM,New York Jets,B,Buffalo Bills,37,31,493,1,393,1,-2,6
+2,A,September 18,1:02PM,Tennessee Titans,B,Detroit Lions,16,15,363,1,375,1,-5,1
+2,A,September 18,1:02PM,Baltimore Ravens,B,Cleveland Browns,25,20,382,2,387,2,3,5
+2,A,September 18,1:02PM,Houston Texans,A,Kansas City Chiefs,19,12,351,2,291,3,0,7
+2,A,September 18,1:02PM,New England Patriots,A,Miami Dolphins,31,24,463,1,457,4,-9.5,7
+2,A,September 18,1:02PM,Pittsburgh Steelers,A,Cincinnati Bengals,24,16,374,2,412,2,-4,8
+2,A,September 18,1:03PM,Carolina Panthers,A,San Francisco 49ers,46,27,529,4,302,3,-11,19
+2,A,September 18,1:03PM,Dallas Cowboys,B,Washington Redskins,27,23,380,1,432,1,0,4
+2,A,September 18,1:03PM,New York Giants,A,New Orleans Saints,16,13,417,3,288,0,-4.5,3
+2,A,September 18,1:05PM,Arizona Cardinals,A,Tampa Bay Buccaneers,40,7,416,0,306,5,-9,33
+2,A,September 18,4:08PM,Los Angeles Rams,A,Seattle Seahawks,9,3,283,0,306,1,4,6
+2,A,September 18,4:25PM,Denver Broncos,A,Indianapolis Colts,34,20,400,1,253,2,-5,14
+2,A,September 18,4:25PM,San Diego Chargers,A,Jacksonville Jaguars,38,14,357,1,388,3,-2.5,24
+2,A,September 18,4:25PM,Atlanta Falcons,B,Oakland Raiders,35,28,528,1,454,0,-3.5,7
+2,A,September 18,8:32PM,Minnesota Vikings,A,Green Bay Packers,17,14,284,1,263,3,0,3
+2,A,September 19,8:30PM,Philadelphia Eagles,B,Chicago Bears,29,14,280,0,284,3,-2.5,15
+3,A,September 22,8:26PM,New England Patriots,A,Houston Texans,27,0,282,0,284,3,-8,27
+3,A,September 25,1:02PM,Oakland Raiders,B,Tennessee Titans,17,10,368,1,393,3,2.5,7
+3,A,September 25,1:02PM,Buffalo Bills,A,Arizona Cardinals,33,18,297,1,348,5,2.5,15
+3,A,September 25,1:02PM,Denver Broncos,B,Cincinnati Bengals,29,17,355,1,332,2,-3,12
+3,A,September 25,1:02PM,Washington Redskins,B,New York Giants,29,27,403,1,457,3,-3,2
+3,A,September 25,1:02PM,Minnesota Vikings,B,Carolina Panthers,22,10,211,0,306,3,-5.5,12
+3,A,September 25,1:02PM,Miami Dolphins,A,Cleveland Browns,30,24,426,3,430,1,-7,6
+3,A,September 25,1:02PM,Green Bay Packers,A,Detroit Lions,34,27,324,0,418,1,-8.5,7
+3,A,September 25,1:02PM,Baltimore Ravens,B,Jacksonville Jaguars,19,17,283,3,216,3,0,2
+3,A,September 25,4:05PM,Los Angeles Rams,B,Tampa Bay Buccaneers,37,32,320,2,472,2,-1,5
+3,A,September 25,4:05PM,Seattle Seahawks,A,San Francisco 49ers,37,18,418,2,254,1,-14,19
+3,A,September 25,4:25PM,Philadelphia Eagles,A,Pittsburgh Steelers,34,3,426,0,251,2,3,31
+3,A,September 25,4:25PM,Indianapolis Colts,A,San Diego Chargers,26,22,410,2,352,3,-5.5,4
+3,A,September 25,4:26PM,Kansas City Chiefs,A,New York Jets,24,3,293,1,305,8,-3.5,21
+3,A,September 25,8:31PM,Dallas Cowboys,A,Chicago Bears,31,17,447,1,390,2,-6,14
+3,A,September 26,8:30PM,Atlanta Falcons,B,New Orleans Saints,45,32,442,0,474,2,-1.5,13
+4,A,September 29,8:26PM,Cincinnati Bengals,A,Miami Dolphins,22,7,362,0,222,2,-6.5,15
+4,A,October 2,9:35AM,Jacksonville Jaguars,A,Indianapolis Colts,30,27,331,0,284,1,3.5,3
+4,A,October 2,1:00PM,Chicago Bears,A,Detroit Lions,17,14,408,0,263,2,-1.5,3
+4,A,October 2,1:02PM,Buffalo Bills,B,New England Patriots,16,0,378,0,277,1,-7,16
+4,A,October 2,1:02PM,Houston Texans,A,Tennessee Titans,27,20,359,2,320,1,-7,7
+4,A,October 2,1:02PM,Oakland Raiders,B,Baltimore Ravens,28,27,261,1,412,1,-2,1
+4,A,October 2,1:03PM,Seattle Seahawks,B,New York Jets,27,17,354,0,305,3,2,10
+4,A,October 2,1:04PM,Atlanta Falcons,A,Carolina Panthers,48,33,571,1,378,2,3.5,15
+4,A,October 2,1:05PM,Washington Redskins,A,Cleveland Browns,31,20,301,1,380,3,-7.5,11
+4,A,October 2,3:25PM,Los Angeles Rams,B,Arizona Cardinals,17,13,288,1,420,5,-7,4
+4,A,October 2,4:05PM,Denver Broncos,B,Tampa Bay Buccaneers,27,7,307,0,215,3,2.5,20
+4,A,October 2,4:25PM,Dallas Cowboys,B,San Francisco 49ers,24,17,428,0,295,1,3,7
+4,A,October 2,4:25PM,New Orleans Saints,B,San Diego Chargers,35,34,275,2,346,3,-3,1
+4,A,October 2,8:30PM,Pittsburgh Steelers,A,Kansas City Chiefs,43,14,436,0,357,2,-4,29
+4,A,October 3,8:35PM,Minnesota Vikings,A,New York Giants,24,10,366,0,339,2,-6,14
+5,A,October 6,8:27PM,Arizona Cardinals,B,San Francisco 49ers,33,21,288,0,286,3,6,12
+5,A,October 9,1:02PM,New England Patriots,B,Cleveland Browns,33,13,501,0,262,1,7,20
+5,A,October 9,1:02PM,Indianapolis Colts,A,Chicago Bears,29,23,396,0,522,1,-3.5,6
+5,A,October 9,1:02PM,Pittsburgh Steelers,A,New York Jets,31,13,436,1,316,0,-6,18
+5,A,October 9,1:02PM,Detroit Lions,A,Philadelphia Eagles,24,23,244,1,346,2,-1,1
+5,A,October 9,1:02PM,Tennessee Titans,B,Miami Dolphins,30,17,398,0,200,2,-5.5,13
+5,A,October 9,1:03PM,Washington Redskins,B,Baltimore Ravens,16,10,310,2,306,1,-2.5,6
+5,A,October 9,1:05PM,Minnesota Vikings,A,Houston Texans,31,13,351,0,214,1,-6,18
+5,A,October 9,4:05PM,Atlanta Falcons,B,Denver Broncos,23,16,372,1,267,1,-6.5,7
+5,A,October 9,4:25PM,Buffalo Bills,B,Los Angeles Rams,30,19,305,0,345,3,-1,11
+5,A,October 9,4:25PM,Dallas Cowboys,A,Cincinnati Bengals,28,14,402,1,345,0,0,14
+5,A,October 9,4:25PM,Oakland Raiders,A,San Diego Chargers,34,31,389,1,423,4,-4.5,3
+5,A,October 9,8:30PM,Green Bay Packers,A,New York Giants,23,16,406,2,221,1,-8,7
+5,A,October 10,8:04PM,Tampa Bay Buccaneers,B,Carolina Panthers,17,14,315,0,414,4,-10,3
+6,A,October 13,8:25PM,San Diego Chargers,A,Denver Broncos,21,13,265,2,304,2,3,8
+6,A,October 16,1:02PM,Miami Dolphins,A,Pittsburgh Steelers,30,15,474,0,297,2,3.5,15
+6,A,October 16,1:02PM,Buffalo Bills,A,San Francisco 49ers,45,16,492,2,300,1,-7,29
+6,A,October 16,1:02PM,Tennessee Titans,A,Cleveland Browns,28,26,407,1,341,0,-3.5,2
+6,A,October 16,1:02PM,Jacksonville Jaguars,B,Chicago Bears,17,16,317,2,389,0,-3.5,1
+6,A,October 16,1:02PM,New York Giants,A,Baltimore Ravens,27,23,435,3,391,0,-3,4
+6,A,October 16,1:02PM,Detroit Lions,A,Los Angeles Rams,31,28,348,0,387,1,-1.5,3
+6,A,October 16,1:02PM,New England Patriots,A,Cincinnati Bengals,35,17,437,0,357,0,-4,18
+6,A,October 16,1:03PM,Washington Redskins,A,Philadelphia Eagles,27,20,493,1,239,0,-3,7
+6,A,October 16,1:03PM,New Orleans Saints,A,Carolina Panthers,41,38,523,1,406,2,4.5,3
+6,A,October 16,4:05PM,Kansas City Chiefs,B,Oakland Raiders,26,10,406,0,285,2,0,16
+6,A,October 16,4:25PM,Dallas Cowboys,B,Green Bay Packers,30,16,424,2,372,4,-6,14
+6,A,October 16,4:26PM,Seattle Seahawks,A,Atlanta Falcons,26,24,333,0,362,2,-10,2
+6,A,October 16,8:32PM,Houston Texans,A,Indianapolis Colts,26,23,414,1,392,1,-1.5,3
+6,A,October 17,7:30PM,Arizona Cardinals,A,New York Jets,28,3,396,0,230,2,-4,25
+7,A,October 20,8:26PM,Green Bay Packers,A,Chicago Bears,26,10,406,1,189,2,-9,16
+7,A,October 23,9:31AM,New York Giants,B,Los Angeles Rams,17,10,232,1,345,4,0,7
+7,A,October 23,1:02PM,Oakland Raiders,B,Jacksonville Jaguars,33,16,344,0,344,3,0,17
+7,A,October 23,1:02PM,Philadelphia Eagles,A,Minnesota Vikings,21,10,239,4,282,4,1.5,11
+7,A,October 23,1:02PM,Detroit Lions,A,Washington Redskins,20,17,344,0,413,2,-1,3
+7,A,October 23,1:02PM,Cincinnati Bengals,A,Cleveland Browns,31,17,559,1,352,2,-11.5,14
+7,A,October 23,1:02PM,Indianapolis Colts,B,Tennessee Titans,34,26,422,0,331,1,3.5,8
+7,A,October 23,1:02PM,Miami Dolphins,A,Buffalo Bills,28,25,454,0,267,0,-1,3
+7,A,October 23,1:03PM,Kansas City Chiefs,A,New Orleans Saints,27,21,326,0,463,2,-8,6
+7,A,October 23,1:04PM,New York Jets,A,Baltimore Ravens,24,16,344,2,245,3,-4,8
+7,A,October 23,4:05PM,Tampa Bay Buccaneers,B,San Francisco 49ers,34,17,513,1,273,3,0,17
+7,A,October 23,4:05PM,San Diego Chargers,B,Atlanta Falcons,33,30,426,2,386,1,-3,3
+7,A,October 23,4:25PM,New England Patriots,B,Pittsburgh Steelers,27,16,362,2,375,1,0,11
+7,A,October 23,7:30PM,Seattle Seahawks,B,Arizona Cardinals,6,6,257,0,443,0,-1,0
+7,A,October 24,8:30PM,Denver Broncos,A,Houston Texans,27,9,347,0,271,2,-6.5,18
+8,A,October 27,8:26PM,Tennessee Titans,A,Jacksonville Jaguars,36,22,494,0,370,1,0,14
+8,A,October 30,8:36AM,Washington Redskins,B,Cincinnati Bengals,27,27,546,1,415,2,-4,0
+8,A,October 30,12:47PM,Carolina Panthers,A,Arizona Cardinals,30,20,349,1,340,2,-3.5,10
+8,A,October 30,1:02PM,Oakland Raiders,B,Tampa Bay Buccaneers,30,24,626,1,270,0,0,6
+8,A,October 30,1:02PM,New England Patriots,B,Buffalo Bills,41,25,357,0,376,0,3,16
+8,A,October 30,1:02PM,New York Jets,B,Cleveland Browns,31,28,393,0,407,2,5,3
+8,A,October 30,1:02PM,Kansas City Chiefs,B,Indianapolis Colts,30,14,422,0,277,2,-1,16
+8,A,October 30,1:03PM,New Orleans Saints,A,Seattle Seahawks,25,20,375,1,359,1,5,5
+8,A,October 30,1:03PM,Houston Texans,A,Detroit Lions,20,13,269,1,289,0,-4,7
+8,A,October 30,4:05PM,Denver Broncos,A,San Diego Chargers,27,19,324,3,369,3,-7,8
+8,A,October 30,4:25PM,Atlanta Falcons,A,Green Bay Packers,33,32,367,0,331,0,4,1
+8,A,October 30,8:31PM,Dallas Cowboys,A,Philadelphia Eagles,29,23,460,1,291,1,-3.5,6
+8,A,October 31,8:31PM,Chicago Bears,A,Minnesota Vikings,20,10,403,0,258,0,2.5,10
+9,A,November 3,8:25PM,Atlanta Falcons,B,Tampa Bay Buccaneers,43,28,461,1,396,2,-1.5,15
+9,A,November 6,1:00PM,Kansas City Chiefs,A,Jacksonville Jaguars,19,14,231,0,449,4,-7,5
+9,A,November 6,1:00PM,Miami Dolphins,A,New York Jets,27,23,274,0,331,2,0,4
+9,A,November 6,1:00PM,Baltimore Ravens,A,Pittsburgh Steelers,21,14,274,1,277,1,-2.5,7
+9,A,November 6,1:00PM,New York Giants,A,Philadelphia Eagles,28,23,302,2,443,2,-3,5
+9,A,November 6,1:00PM,Dallas Cowboys,B,Cleveland Browns,35,10,423,0,222,0,5,25
+9,A,November 6,1:00PM,Detroit Lions,B,Minnesota Vikings,22,16,311,1,337,0,-6.5,6
+9,A,November 6,4:05PM,Carolina Panthers,B,Los Angeles Rams,13,10,244,0,339,1,3.5,3
+9,A,November 6,4:05PM,New Orleans Saints,B,San Francisco 49ers,41,23,571,0,486,4,0,18
+9,A,November 6,4:25PM,Indianapolis Colts,B,Green Bay Packers,31,26,355,2,405,1,-6,5
+9,A,November 6,4:25PM,San Diego Chargers,A,Tennessee Titans,43,35,476,0,393,3,-4.5,8
+9,A,November 6,8:30PM,Oakland Raiders,A,Denver Broncos,30,20,397,0,299,2,1,10
+9,A,November 7,8:30PM,Seattle Seahawks,A,Buffalo Bills,31,25,278,0,425,1,-10,6
+10,A,November 10,8:25PM,Baltimore Ravens,A,Cleveland Browns,28,7,396,2,144,3,-8.5,21
+10,A,November 13,1:00PM,Tampa Bay Buccaneers,A,Chicago Bears,36,10,360,1,283,4,-2,26
+10,A,November 13,1:00PM,Tennessee Titans,A,Green Bay Packers,47,25,446,0,402,3,7.5,22
+10,A,November 13,1:00PM,Houston Texans,B,Jacksonville Jaguars,24,21,273,0,327,2,1,3
+10,A,November 13,1:00PM,Washington Redskins,A,Minnesota Vikings,26,20,388,1,331,1,1.5,6
+10,A,November 13,1:00PM,Kansas City Chiefs,B,Carolina Panthers,20,17,256,1,341,2,-4.5,3
+10,A,November 13,1:00PM,Los Angeles Rams,B,New York Jets,9,6,280,0,296,1,-4,3
+10,A,November 13,1:00PM,Philadelphia Eagles,A,Atlanta Falcons,24,15,429,1,303,1,-2.5,9
+10,A,November 13,1:00PM,Denver Broncos,B,New Orleans Saints,25,23,337,2,373,4,1,2
+10,A,November 13,4:05PM,Miami Dolphins,B,San Diego Chargers,31,24,337,1,379,4,-1,7
+10,A,November 13,4:25PM,Arizona Cardinals,A,San Francisco 49ers,23,20,443,4,281,1,-10.5,3
+10,A,November 13,4:25PM,Dallas Cowboys,B,Pittsburgh Steelers,35,30,422,1,448,0,-6,5
+10,A,November 13,8:30PM,Seattle Seahawks,B,New England Patriots,31,24,420,0,385,2,-2,7
+10,A,November 14,8:30PM,New York Giants,A,Cincinnati Bengals,21,20,351,2,264,1,2,1
+11,A,November 17,8:25PM,Carolina Panthers,A,New Orleans Saints,23,20,223,0,371,2,-10,3
+11,A,November 20,1:00PM,Indianapolis Colts,A,Tennessee Titans,24,17,327,1,351,0,-8,7
+11,A,November 20,1:00PM,New York Giants,A,Chicago Bears,22,16,329,0,315,1,-4,6
+11,A,November 20,1:00PM,Dallas Cowboys,A,Baltimore Ravens,27,17,417,0,368,0,-4.5,10
+11,A,November 20,1:00PM,Minnesota Vikings,A,Arizona Cardinals,30,24,217,1,290,2,-1.5,6
+11,A,November 20,1:00PM,Buffalo Bills,B,Cincinnati Bengals,16,12,342,1,300,2,-5.5,4
+11,A,November 20,1:00PM,Tampa Bay Buccaneers,B,Kansas City Chiefs,19,17,442,1,343,2,-7,2
+11,A,November 20,1:00PM,Detroit Lions,A,Jacksonville Jaguars,26,19,277,2,285,3,-3.5,7
+11,A,November 20,1:00PM,Pittsburgh Steelers,B,Cleveland Browns,24,9,313,0,209,2,8.5,15
+11,A,November 20,4:05PM,Miami Dolphins,B,Los Angeles Rams,14,10,240,1,227,1,-2,4
+11,A,November 20,4:25PM,New England Patriots,B,San Francisco 49ers,30,17,444,0,299,0,6,13
+11,A,November 20,4:25PM,Seattle Seahawks,A,Philadelphia Eagles,26,15,439,0,308,2,-9,11
+11,A,November 20,8:30PM,Washington Redskins,A,Green Bay Packers,42,24,515,0,424,2,2.5,18
+11,A,November 21,8:30PM,Oakland Raiders,A,Houston Texans,27,20,325,1,354,2,-2,7
+12,A,November 24,12:30PM,Detroit Lions,A,Minnesota Vikings,16,13,308,0,306,1,2.5,3
+12,A,November 24,4:30PM,Dallas Cowboys,A,Washington Redskins,31,26,353,0,505,0,-3.5,5
+12,A,November 24,8:30PM,Pittsburgh Steelers,B,Indianapolis Colts,28,7,369,0,310,2,-1.5,21
+12,A,November 27,1:00PM,Atlanta Falcons,A,Arizona Cardinals,38,19,360,1,332,1,-2.5,19
+12,A,November 27,1:00PM,Baltimore Ravens,A,Cincinnati Bengals,19,14,311,1,325,2,1.5,5
+12,A,November 27,1:00PM,Miami Dolphins,A,San Francisco 49ers,31,24,358,0,475,2,-5,7
+12,A,November 27,1:00PM,New Orleans Saints,A,Los Angeles Rams,49,21,555,1,247,2,-1.5,28
+12,A,November 27,1:00PM,San Diego Chargers,B,Houston Texans,21,13,302,1,353,4,-4.5,8
+12,A,November 27,1:00PM,Tennessee Titans,B,Chicago Bears,27,21,375,0,411,2,-5,6
+12,A,November 27,1:00PM,Buffalo Bills,A,Jacksonville Jaguars,28,21,304,0,301,0,-5,7
+12,A,November 27,1:00PM,New York Giants,B,Cleveland Browns,27,13,296,1,343,3,-3.5,14
+12,A,November 27,4:05PM,Tampa Bay Buccaneers,A,Seattle Seahawks,14,5,338,2,245,3,5,9
+12,A,November 27,4:25PM,Oakland Raiders,A,Carolina Panthers,35,32,366,2,358,2,3,3
+12,A,November 27,4:25PM,New England Patriots,B,New York Jets,22,17,377,0,333,2,2.5,5
+12,A,November 27,8:30PM,Kansas City Chiefs,B,Denver Broncos,30,27,273,0,464,1,-3,3
+12,A,November 28,8:30PM,Green Bay Packers,B,Philadelphia Eagles,27,13,387,0,292,1,3.5,14
+13,A,December 1,8:25PM,Dallas Cowboys,B,Minnesota Vikings,17,15,264,2,318,1,-4.5,2
+13,A,December 4,1:00PM,Baltimore Ravens,A,Miami Dolphins,38,6,496,2,277,3,-3,32
+13,A,December 4,1:00PM,Denver Broncos,B,Jacksonville Jaguars,20,10,206,0,333,3,3.5,10
+13,A,December 4,1:00PM,New England Patriots,A,Los Angeles Rams,26,10,402,0,162,2,-9,16
+13,A,December 4,1:00PM,Chicago Bears,A,San Francisco 49ers,26,6,326,1,147,0,-5,20
+13,A,December 4,1:00PM,Green Bay Packers,A,Houston Texans,21,13,309,1,307,1,-7,8
+13,A,December 4,1:00PM,Kansas City Chiefs,B,Atlanta Falcons,29,28,389,1,418,1,0,1
+13,A,December 4,1:00PM,Cincinnati Bengals,A,Philadelphia Eagles,32,14,412,2,359,3,-5,18
+13,A,December 4,1:00PM,Detroit Lions,B,New Orleans Saints,28,13,422,0,369,3,-2,15
+13,A,December 4,4:05PM,Oakland Raiders,A,Buffalo Bills,38,24,399,0,382,2,-1.5,14
+13,A,December 4,4:25PM,Pittsburgh Steelers,A,New York Giants,24,14,389,2,234,2,-7.5,10
+13,A,December 4,4:25PM,Tampa Bay Buccaneers,B,San Diego Chargers,28,21,349,1,330,2,-2,7
+13,A,December 4,4:25PM,Arizona Cardinals,A,Washington Redskins,31,23,369,0,333,2,-6.5,8
+13,A,December 4,8:30PM,Seattle Seahawks,A,Carolina Panthers,40,7,534,1,271,2,-3,33
+13,A,December 5,8:30PM,Indianapolis Colts,B,New York Jets,41,10,421,1,250,3,-2,31
+14,A,December 8,8:25PM,Kansas City Chiefs,A,Oakland Raiders,21,13,323,3,244,0,-4.5,8
+14,A,December 11,1:00PM,Tennessee Titans,A,Denver Broncos,13,10,253,0,348,2,5.5,3
+14,A,December 11,1:00PM,Washington Redskins,B,Philadelphia Eagles,27,22,334,1,383,2,-2,5
+14,A,December 11,1:00PM,Miami Dolphins,A,Arizona Cardinals,26,23,314,3,300,4,3,3
+14,A,December 11,1:00PM,Cincinnati Bengals,B,Cleveland Browns,23,10,360,0,254,1,7.5,13
+14,A,December 11,1:00PM,Pittsburgh Steelers,B,Buffalo Bills,27,20,460,3,275,1,2,7
+14,A,December 11,1:00PM,Carolina Panthers,A,San Diego Chargers,28,16,272,1,278,5,-10,12
+14,A,December 11,1:00PM,Minnesota Vikings,B,Jacksonville Jaguars,25,16,377,1,315,0,2.5,9
+14,A,December 11,1:00PM,Detroit Lions,A,Chicago Bears,20,17,323,2,296,0,-2.5,3
+14,A,December 11,1:00PM,Houston Texans,B,Indianapolis Colts,22,17,316,1,348,3,-4,5
+14,A,December 11,4:05PM,New York Jets,B,San Francisco 49ers,23,17,404,1,364,0,0,6
+14,A,December 11,4:25PM,Atlanta Falcons,B,Los Angeles Rams,42,14,286,0,312,5,-3,28
+14,A,December 11,4:25PM,Green Bay Packers,A,Seattle Seahawks,38,10,330,0,354,6,-2,28
+14,A,December 11,4:25PM,Tampa Bay Buccaneers,A,New Orleans Saints,16,11,270,0,294,3,-3,5
+14,A,December 11,8:30PM,New York Giants,A,Dallas Cowboys,10,7,260,3,260,3,-1,3
+14,A,December 12,8:30PM,New England Patriots,A,Baltimore Ravens,30,23,496,3,348,1,-9,7
+15,A,December 15,8:25PM,Seattle Seahawks,A,Los Angeles Rams,24,3,299,1,183,0,-1,21
+15,A,December 17,8:25PM,Miami Dolphins,B,New York Jets,34,13,303,1,360,4,-5,21
+15,A,December 18,1:00PM,Baltimore Ravens,A,Philadelphia Eagles,27,26,340,2,328,1,3,1
+15,A,December 18,1:00PM,Pittsburgh Steelers,B,Cincinnati Bengals,24,20,382,0,222,1,0,4
+15,A,December 18,1:00PM,Green Bay Packers,B,Chicago Bears,30,27,451,0,449,4,5,3
+15,A,December 18,1:00PM,Tennessee Titans,B,Kansas City Chiefs,19,17,389,3,316,1,-9,2
+15,A,December 18,1:00PM,New York Giants,A,Detroit Lions,17,6,300,0,324,2,-3,11
+15,A,December 18,1:00PM,Buffalo Bills,A,Cleveland Browns,33,13,451,0,269,0,-9,20
+15,A,December 18,1:00PM,Houston Texans,A,Jacksonville Jaguars,21,20,387,2,150,1,-4.5,1
+15,A,December 18,1:00PM,Indianapolis Colts,B,Minnesota Vikings,34,6,411,0,282,3,-4,28
+15,A,December 18,4:05PM,Atlanta Falcons,A,San Francisco 49ers,41,13,550,1,272,1,-5,28
+15,A,December 18,4:05PM,New Orleans Saints,B,Arizona Cardinals,48,41,488,1,425,2,-9,7
+15,A,December 18,4:25PM,New England Patriots,B,Denver Broncos,16,3,313,0,309,3,1,13
+15,A,December 18,4:25PM,Oakland Raiders,B,San Diego Chargers,19,16,345,2,263,2,1,3
+15,A,December 18,8:30PM,Dallas Cowboys,A,Tampa Bay Buccaneers,26,20,449,1,276,4,-6,6
+15,A,December 19,8:30PM,Carolina Panthers,B,Washington Redskins,26,15,438,0,335,3,3,11
+16,A,December 22,8:25PM,Philadelphia Eagles,A,New York Giants,24,19,286,1,470,3,-2.5,5
+16,A,December 24,1:00PM,New England Patriots,A,New York Jets,41,3,325,0,239,4,-6.5,38
+16,A,December 24,1:00PM,Washington Redskins,B,Chicago Bears,41,21,478,0,458,5,0,20
+16,A,December 24,1:00PM,Miami Dolphins,B,Buffalo Bills,34,31,494,1,589,0,-3.5,3
+16,A,December 24,1:00PM,Cleveland Browns,A,San Diego Chargers,20,17,251,0,356,1,2,3
+16,A,December 24,1:00PM,Atlanta Falcons,B,Carolina Panthers,33,16,408,0,302,2,-8.5,17
+16,A,December 24,1:00PM,Green Bay Packers,A,Minnesota Vikings,38,25,348,0,446,2,-4.5,13
+16,A,December 24,1:00PM,Jacksonville Jaguars,A,Tennessee Titans,38,17,415,1,263,1,-4.5,21
+16,A,December 24,4:05PM,Oakland Raiders,A,Indianapolis Colts,33,25,463,0,390,3,-1,8
+16,A,December 24,4:25PM,Arizona Cardinals,B,Seattle Seahawks,34,31,370,1,391,1,-3.5,3
+16,A,December 24,4:25PM,New Orleans Saints,A,Tampa Bay Buccaneers,31,24,417,0,349,2,-2.5,7
+16,A,December 24,4:25PM,San Francisco 49ers,B,Los Angeles Rams,22,21,323,2,177,2,-5.5,1
+16,A,December 24,8:25PM,Houston Texans,A,Cincinnati Bengals,12,10,250,0,294,1,1,2
+16,A,December 25,4:30PM,Pittsburgh Steelers,A,Baltimore Ravens,31,27,406,2,368,1,-8,4
+16,A,December 25,8:30PM,Kansas City Chiefs,A,Denver Broncos,33,10,484,1,246,3,-1.5,23
+16,A,December 26,8:30PM,Dallas Cowboys,A,Detroit Lions,42,21,375,0,319,2,-5,21
+17,A,January 1,1:00PM,New England Patriots,B,Miami Dolphins,35,14,396,0,280,2,,21
+17,A,January 1,1:00PM,Cincinnati Bengals,A,Baltimore Ravens,27,10,371,0,335,2,,17
+17,A,January 1,1:00PM,New York Jets,A,Buffalo Bills,30,10,329,0,230,3,,20
+17,A,January 1,1:00PM,Tampa Bay Buccaneers,A,Carolina Panthers,17,16,300,2,335,3,,1
+17,A,January 1,1:00PM,Pittsburgh Steelers,A,Cleveland Browns,27,24,312,1,437,4,,3
+17,A,January 1,1:00PM,Philadelphia Eagles,A,Dallas Cowboys,27,13,346,0,195,2,,14
+17,A,January 1,1:00PM,Indianapolis Colts,A,Jacksonville Jaguars,24,20,384,2,470,2,,4
+17,A,January 1,1:00PM,Minnesota Vikings,A,Chicago Bears,38,10,374,1,323,5,,28
+17,A,January 1,1:00PM,Tennessee Titans,A,Houston Texans,24,17,236,1,289,1,,7
+17,A,January 1,4:25PM,Seattle Seahawks,B,San Francisco 49ers,25,23,376,0,253,2,,2
+17,A,January 1,4:25PM,Atlanta Falcons,A,New Orleans Saints,38,32,465,0,473,1,,6
+17,A,January 1,4:25PM,Arizona Cardinals,B,Los Angeles Rams,44,6,344,2,123,3,,38
+17,A,January 1,4:25PM,Denver Broncos,A,Oakland Raiders,24,6,349,1,221,3,,18
+17,A,January 1,4:25PM,Kansas City Chiefs,B,San Diego Chargers,37,27,365,1,398,2,,10
+17,A,January 1,4:25PM,New York Giants,B,Washington Redskins,19,10,332,0,284,3,,9
+17,A,January 1,8:30PM,Green Bay Packers,B,Detroit Lions,31,24,448,0,408,1,,7
+18,A,January 7,4:35PM,Houston Texans,A,Oakland Raiders,27,14,291,0,203,3,,13
+18,A,January 7,8:15PM,Seattle Seahawks,A,Detroit Lions,26,6,387,0,231,0,,20
+18,A,January 8,1:05PM,Pittsburgh Steelers,A,Miami Dolphins,30,12,367,2,305,3,,18
+18,A,January 8,4:40PM,Green Bay Packers,A,New York Giants,38,13,406,0,365,2,,25
+19,A,January 14,4:35PM,Atlanta Falcons,A,Seattle Seahawks,36,20,422,0,309,2,,16
+19,A,January 14,8:15PM,New England Patriots,A,Houston Texans,34,16,377,3,302,3,,18
+19,A,January 15,4:40PM,Green Bay Packers,B,Dallas Cowboys,34,31,413,1,429,1,,3
+19,A,January 15,8:20PM,Pittsburgh Steelers,B,Kansas City Chiefs,18,16,389,1,227,2,,2
+20,A,January 22,3:05PM,Atlanta Falcons,A,Green Bay Packers,44,21,493,0,367,2,,23
+20,A,January 22,6:40PM,New England Patriots,A,Pittsburgh Steelers,36,17,431,0,368,2,,19
+21,A,February 5,6:30PM,New England Patriots,N,Atlanta Falcons,34,28,546,2,344,1,,6
