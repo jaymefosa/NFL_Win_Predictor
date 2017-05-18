@@ -15,18 +15,18 @@ from chainer.training import extensions
 
 import random
 import pandas as pd
-
+import copy
 
 
 num_features = 14
-train_size = 1802
+train_size = 3600
 
 
 SAVE = "yes"
 SAVE = "no"
 LOAD = "yes"
 LOAD = "no"
-ITERATIONS = 200#40 #make 1 for no training #120 seems nice
+ITERATIONS = 17000#40 #make 1 for no training #120 seems nice
 
 
 ### this will be a softmax based win predictor
@@ -49,9 +49,9 @@ class winPredictor(Chain):
             )
                 
     def __call__(self, x, train=True):
-        f1 = F.dropout(F.relu(self.h1(x)), ratio=.5, train=train)
+        f1 = F.dropout(F.relu(self.h1(x)), ratio=.8, train=train)
         
-        f2 = F.dropout(F.relu(self.h2(f1)), ratio=.5, train=train)
+        f2 = F.dropout(F.relu(self.h2(f1)), ratio=.8, train=train)
         
         #f3 = F.dropout(F.tanh(self.h3(f2))) 63% here
         
@@ -113,6 +113,24 @@ def randomSwapping(entire_array):
 
     return entire_array
     
+    
+def doubleAndSwap(entire_array):
+    doubled = copy.copy(entire_array)
+    last_index = (len(doubled[0]) - 2) / 2
+
+    for k in range(len(doubled)):
+        "The last two elements are the scores for team A and B"
+        doubled[k][-1], doubled[k][-2] = doubled[k][-2], doubled[k][-1]        
+        
+        for i in range(last_index):
+            doubled[k][i], doubled[k][last_index + i] = doubled[k][last_index + i], doubled[k][i]
+    
+    return np.vstack((entire_array, doubled))
+
+        
+    
+    
+    
 def inverseSwapping(entire_array):
     for k in range(len(entire_array)):
             choice = True
@@ -150,11 +168,12 @@ def trainModel(iterations, entire_set, train_size, load=None, save=None):
     target = np.array(entire_set[0:train_size, num_features:], dtype=np.int32)
     target_gpu = cuda.to_gpu(target[:,0], device=0)
 
-    if load == "yes": serializers.load_npz('NFL boy v.03softmax 04', model)
+    if load == "yes": serializers.load_npz('Model/NFL boy v.03softmax 04', model)
     
     print("train set size", len(train_set))
     if iterations > 4:
         for i in range(iterations):        
+            """
             if i % 2 == 0:
                     entire_set = randomSwapping(entire_set)
                     #print("first few lines", entire_set[0:5,20:])
@@ -164,7 +183,7 @@ def trainModel(iterations, entire_set, train_size, load=None, save=None):
     
                     target = np.array(entire_set[0:train_size, num_features:], dtype=np.int32)
                     target_gpu = cuda.to_gpu(target[:,0], device=0)
-            
+            """
             
             #print(output.shape)
             #print(target.shape)
@@ -185,7 +204,7 @@ def trainModel(iterations, entire_set, train_size, load=None, save=None):
             #print('loss' , loss.data)
             #print('output' , output.data)
     
-    if save == "yes": serializers.save_npz('NFL boy v.03softmax 04', model)
+    if save == "yes": serializers.save_npz('Model/NFL boy v.03softmax 04', model)
 
     # validation
     #validationWinsGraph(entire_set)
@@ -294,7 +313,9 @@ training_set = pd.read_csv("Datasets/Training Data/NFL training set 2.csv")
 
 training_set = deleteColumns(training_set, columns_to_delete)
 training_set_np = training_set.values
-training_set_np = randomSwapping(changeScoreToBinary(training_set_np))
+#training_set_np = randomSwapping(changeScoreToBinary(training_set_np))
+training_set_np = doubleAndSwap(changeScoreToBinary(training_set_np))
+
 training_set_np = np.nan_to_num(training_set_np)
 
 
@@ -305,7 +326,10 @@ validation_set = pd.read_csv(("Datasets/Training Data/NFL validation set 2.csv")
 validation_set = deleteColumns(validation_set, columns_to_delete) 
 validation_set_np = validation_set.values
 validation_set_np = np.nan_to_num(validation_set_np)
-validation_set_np = randomSwapping(randomSwapping(changeScoreToBinary(validation_set_np)))
+
+#validation_set_np = randomSwapping(randomSwapping(changeScoreToBinary(validation_set_np)))
+validation_set_np = changeScoreToBinary(validation_set_np)
+
 
 train_size = 0
 print("2016 games")
